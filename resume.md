@@ -1,33 +1,33 @@
 
 -------------------------------
-# Palash Tyagi
-**BSc. (Hons.) in Physics &#124; Programmer &#124; Problem Solver &#124; Valedictorian**
+# Mohammad Shikha
+**BSc. in Physics &#124; Engineer &#124; Programmer &#124; **
 
 <div id="webaddress">
-<a href="palash@tyagi.me">palash@tyagi.me</a>
-&#124; <a href="https://github.com/Magnus167">GitHub : Magnus167</a>
-&#124; <a href="https://www.linkedin.com/in/palash-tyagi-207795191/">My LinkedIn</a>
+<a href="mohammadshikha@gmail.com">mohammadshikha@gmail.com </a>
+&#124; <a href="https://github.com/owen97779">GitHub : owen97779</a>
+&#124; <a href="https://www.linkedin.com/in/mohammad-shikha-6622181b2/">My LinkedIn</a>
 </div>
 
 
 ## Skills
 
-`Python` &#124; `C++` &#124; `C` &#124; `Object Pascal` &#124; `Delphi` &#124; `Javascript` &#124; `MATLAB` &#124; `Google Appscript` &#124; `G-Code for actuators`
+`Electronic Circuit Design` &#124; `Python` &#124; `Micropython ` &#124; `CAD Design` &#124; `Arduino` &#124; `Microcontrollers` &#124;
 
-`Raspberry Pi` &#124; `Arduino` &#124; `OpenCV` &#124; `NLTK` &#124; `Linux` &#124; `Google Cloud Compute` &#124; `AWS` &#124; `Tesseract-OCR` &#124; `MongoDB` &#124; `Git` &#124; `Computer Vision` &#124; `WordPress` &#124; `Docker` &#124; `SQL` &#124; `CAD design` &#124; `3D printing` &#124; `Data Analysis` &#124; `Electronics & Circuit Design` &#124; `Machine Learning` &#124; `Micro-controllers` &#124; `Microsoft Office` &#124; `Virtual Machines`
+`Raspberry Pi` &#124;  `Linux` &#124; `Git` &#124; `Docker` &#124; `Azure` &#124; `AWS` &#124; `mySQL` &#124; `Virtual Machines` &#124; `Git` &#124; `Microsoft Office Suite` &#124;
 
-`Graphic Design` &#124; `3D Design` &#124; `Autodesk Fusion` &#124; `Autodesk Inventor` &#124; `Metal Working` &#124; `Woodworking`
+`3D Printing` &#124; `Autodesk Fusion` &#124; `Graphic Design` &#124; `Metal Working` &#124; `Woodworking` &#124; 
 
 
 -------------------------------
 
 ## Education
 
-`SEP 2019 -- PRESENT` &#124; __BSc. (Hons.) Physics__ &#124;
+`SEP 2019 - JUN 2022` &#124; __BSc. Physics__ &#124;
 __King's College London__
 
-`MAR 2011 - JUN 2019` &#124; __A Levels__ &#124;
-__Kasiga School, Dehradun__
+`SEP 2012 - JUN 2019` &#124; __A Levels__ &#124; __GCSEs__ &#124;
+__Harris Academy St John's Wood, London__
 
 
 -------------------------------
@@ -44,7 +44,7 @@ Award for Excellence in Performing Arts for Theatre
 
 ## Employment and Projects
 
-<!-- ## Productive Fish &#124; `DEC 2020 - PRESENT` -->
+<!-- ## KCL GPS Project &#124; `DEC 2020 - PRESENT` -->
 
 ### **Productive Fish** &#124; `Project` &#124; `DEC 2020 - PRESENT`
 
