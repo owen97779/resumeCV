@@ -1,7 +1,7 @@
 
 -------------------------------
 # Mohammad Shikha
-**BSc. in Physics &#124; Engineer &#124; Programmer &#124; **
+**BSc. in Physics &#124; Engineer &#124; Programmer &#124;**
 
 <div id="webaddress">
 <a href="mohammadshikha@gmail.com">mohammadshikha@gmail.com </a>
@@ -12,18 +12,18 @@
 
 ## Skills
 
-`Electronic Circuit Design` &#124; `Python` &#124; `Micropython ` &#124; `CAD Design` &#124; `Arduino` &#124; `Microcontrollers` &#124;
+`Electronic Circuit Design` &#124; `Python` &#124; `Micropython ` &#124; `Django` &#124; `CAD Design` &#124; `Arduino` &#124; `Microcontrollers` &#124;
 
-`Raspberry Pi` &#124;  `Linux` &#124; `Git` &#124; `Docker` &#124; `Azure` &#124; `AWS` &#124; `mySQL` &#124; `Virtual Machines` &#124; `Git` &#124; `Microsoft Office Suite` &#124;
+`Raspberry Pi` &#124;  `Linux` &#124; `C#` &#124; `Git` &#124; `IOT` &#124; `Docker` &#124; `AWS` &#124; `mySQL` &#124; `mongoDB` &#124; `Virtual Machines` &#124; `Microsoft Office Suite` &#124; `Blockchain` &#124;
 
-`3D Printing` &#124; `Autodesk Fusion` &#124; `Graphic Design` &#124; `Metal Working` &#124; `Woodworking` &#124; 
+`3D Printing` &#124; `Autodesk Fusion` &#124; `Graphic Design` &#124; `Metal Working` &#124; `Woodworking` &#124; `SMD Soldering` &#124;
 
 
 -------------------------------
 
 ## Education
 
-`SEP 2019 - JUN 2022` &#124; __BSc. Physics__ &#124;
+`SEP 2019 - JUN 2022` &#124; __BSc. Physics__ Upper Second Class &#124;
 __King's College London__
 
 `SEP 2012 - JUN 2019` &#124; __A Levels__ &#124; __GCSEs__ &#124;
@@ -44,15 +44,17 @@ Award for Excellence in Performing Arts for Theatre
 
 ## Employment and Projects
 
-<!-- ## KCL GPS Project &#124; `DEC 2020 - PRESENT` -->
+### **KCL GPS Project** &#124; `Project` &#124; `SEP 2021 - PRESENT` ###
 
-### **Productive Fish** &#124; `Project` &#124; `DEC 2020 - PRESENT`
+Chief engineer of an open-source GPS platform as part of the King's Student Opportunity Fund. Designed a prototype schematic and circuit board of an IOT enabled GPS for consumer use. Microcontroller programming, database management and cloud computing utilised. Currently designing a mass market product. Project link: https://github.com/owen97779/gps-project  
 
-Part of a software development team that built an app that uses machine learning to help users stay focused on tasks and allows team working sessions.
+### **Pachamama Group** &#124; `IT Network Engineer` &#124; `JUN 2018 - PRESENT`
 
-### **jarPhys** &#124; `Project` &#124; `APR 2021 - PRESENT`
+Part-time position maintaining and streamlining the IT processes at a multi-site company with dependence on Windows Active Directory.
 
-Created an application that uses natural language tools in combination with OCR to help users run natural language search on their own documents. Project Link: [magnus167.github.io/jarPhys](https://magnus167.github.io/jarPhys/)
+### **Nuffield Research** &#124; `Project` &#124;  `JUN 2018 - SEP 2018`
+
+Web developer for the Nuffield Research Placement, creating a static website to aid the elderly with technology. HTML, CSS and Javascript used.
 
 ### **Private Tutoring** &#124; `Self Employed` &#124; `DEC 2019 - PRESENT`
 
@@ -85,11 +87,11 @@ Built software systems for the company to manage all software-related tasks (inc
 
 -------------------------------
 -------------------------------
-## Relevant College Coursework
+## Relevant University Coursework
 
-### **Implementing a General-Purpose Finite-Difference for Electromagnetic Waves** &#124; `2021`
+### **Virtual Reality Solar-System Grand Tour** &#124; `2021`
 
-The project focused on developing an FDTD simulator for EM waves, to be used by students and as a teaching tool. Allowing users to create their simulations using less than 7 lines of code, the simulator is implemented in Python and uses NumPy and Matplotlib.
+A simulation of the Voyager 2 in the solar-system probe was made using the Unity engine and programmed using C# as part of a two person group project. Newtonian gravitation was numerically modelled to accurately output the correct trajectory and planetary orbits in accordance to the initial conditions provided by the NASA JPL dataset. VR implementation and interactive controls were implemented to create an immersive teaching experience. Project Link: https://github.com/owen97779/Unity-
 
 
 ### **Experimental Physics** &#124; `2021`
@@ -98,10 +100,9 @@ The course involved performing experiments and analysing the results, including 
 instrumental error. The course helped develop skills in scientific and clear communication, as well as building strong
 observational skills for a large variety of given environments.
 
-### **Introduction to Numerical Modelling** &#124; `2020`
+### **Numerical Modelling** &#124; `2020`
 
-Analysing real-world problems as physical and mathematical systems using numerical modelling techniques. Two
-systems that were modelled were The Tacoma Bridge, and a Travelling Salesman Problem.
+Scientific computation of two real-world problems, the Travelling Salesman and the Tacoma Bridge. These systems were modelled and analysed in the form of a Jupyter notebook.
 
 ### **Introduction to Medical Physics and Clinical Engineering** &#124; `2020`
 
