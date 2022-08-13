@@ -74,7 +74,7 @@ Built software systems for the company to manage all software-related tasks (inc
 -------------------------------
 
 ## Relevant Courses 
-**Introduction to C++** &#124; `Microsoft`
+**Java Programming MOOC** &#124; `University of Finland`
 
 **Introduction to Cyber Security** &#124; `The Open University`
 
