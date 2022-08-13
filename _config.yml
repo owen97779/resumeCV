@@ -1,1 +1,5 @@
 theme: jekyll-theme-slate
+title: Palash Tyagi's CV
+description: <a href="https://drive.google.com/viewer?url=https://raw.githubusercontent.com/owen97779/resumeCV/master/Mohammad_Shikha_CV.pdf">View PDF</a> &#124; <a href="https://raw.githubusercontent.com/owen97779/resumeCV/master/Mohammad_Shikha_CV.pdf">Download PDF</a> &#124; <a href="https://owen97779.github.io/resumeCV/md2pdf.htm?src=https://raw.githubusercontent.com/owen97779/resumeCV/master/resume.md">View Markdown</a>
+github:
+  is_project_page: false
