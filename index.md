@@ -36,7 +36,7 @@ __Harris Academy St John's Wood, London__
 
 ### **KCL GPS Project** &#124; `Project` &#124; `SEP 2021 - PRESENT` ###
 
-Chief engineer of an open-source GPS platform as part of the King's Student Opportunity Fund. Designed a prototype schematic and circuit board of an IOT enabled GPS for consumer use. Microcontroller programming, database management and cloud computing utilised. Currently designing a mass market product. Project link: https://github.com/owen97779/gps-project  
+Chief engineer of an open-source GPS platform as part of the King's Student Opportunity Fund. Designed a prototype schematic and circuit board of an IOT enabled GPS for consumer use. Microcontroller programming, database management and cloud computing utilised. Currently designing a mass market product. [Project link](https://github.com/owen97779/gps-project)  
 
 ### **Pachamama Group** &#124; `IT Network Engineer` &#124; `JUN 2018 - PRESENT`
 
@@ -67,7 +67,7 @@ A-Level and GCSE tutor for mathematics and physics.
 
 ### **Virtual Reality Solar-System Grand Tour** &#124; `2021`
 
-A simulation of the Voyager 2 probe was made using the Unity engine and programmed using C# as part of a two person group project. Newtonian gravitation was numerically modelled to accurately output the correct trajectory and planetary orbits in accordance to the initial conditions provided by the NASA JPL dataset. VR implementation and interactive controls were implemented to create an immersive teaching experience. A scientific paper was made summarising the results. Project Link: https://github.com/owen97779/Unity-
+A simulation of the Voyager 2 probe was made using the Unity engine and programmed using C# as part of a two person group project. Newtonian gravitation was numerically modelled to accurately output the correct trajectory and planetary orbits in accordance to the initial conditions provided by the NASA JPL dataset. VR implementation and interactive controls were implemented to create an immersive teaching experience. A scientific paper was made summarising the results. [Project Link](https://github.com/owen97779/Unity-)
 
 
 ### **Experimental Physics** &#124; `2021`
