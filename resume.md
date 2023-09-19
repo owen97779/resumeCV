@@ -1,7 +1,9 @@
 
 -------------------------------
 # Mohammad Shikha
-**BSc. (Hons) in Physics &#124; Engineer &#124; Programmer &#124;**
+**IT Operations | Embedded Programmer | BSc. (Hons) in Physics**
+
+Motivated IT Support Engineer dedicated to optimising IT infrastructure and leveraging technology to improve market competitiveness for customer-facing businesses. Currently focused on embedded IoT devices, cloud computing, and Bitcoin to enhance analytics, data processing, and financial resilience.
 
 <div id="webaddress">
 <a href="mohammadshikha@gmail.com">mohammadshikha@gmail.com </a>
@@ -12,12 +14,8 @@
 
 ## Skills
 
-`Electronic Circuit Design` &#124; `Python` &#124; `Micropython ` &#124; `Django` &#124; `CAD Design` &#124; `Arduino` &#124; `Microcontrollers` &#124;
-
-`Raspberry Pi` &#124;  `Linux` &#124; `C#` &#124; `Git` &#124; `IOT` &#124; `Docker` &#124; `AWS` &#124; `mySQL` &#124; `mongoDB` &#124; `Virtual Machines` &#124; `Microsoft Office Suite` &#124; `Blockchain` &#124;
-
-`3D Printing` &#124; `Autodesk Fusion` &#124; `Graphic Design` &#124; `Metal Working` &#124; `Woodworking` &#124; `SMD Soldering` &#124;
-
+`Zendesk` &#124; `Google Workspace` &#124; `Office 365` &#124; `OPNsense` &#124; `Network Design` &#124; `Network Protocols` &#124; `VPN` &#124; `IP Camera and NVR Setup` &#124; `Unifi Devices` &#124;  `Nginx` &#124; `Cloudflare` &#124; 
+`Proxmox` &#124; `Linux` &#124; `Containers` &#124; `Docker` &#124; `ZFS` &#124;`C` &#124; `Python` &#124; `Git` &#124; `CI/CD` &#124; `KiCad` 
 
 -------------------------------
 
@@ -32,81 +30,145 @@ __Harris Academy St John's Wood, London__
 
 -------------------------------
 
-## Employment and Projects
+## Employment 
 
-### **KCL GPS Project** &#124; `Project` &#124; `SEP 2021 - PRESENT` ###
+### **Pachamama Group** &#124; `IT Consultant` &#124; `Full-Time` &#124; ` Feb 2023 - PRESENT` 
 
-Chief engineer of an open-source GPS platform as part of the King's Student Opportunity Fund. Designed a prototype schematic and circuit board of an IOT enabled GPS for consumer use. Microcontroller programming, database management and cloud computing utilised. Currently designing a mass market product. Project link: https://github.com/owen97779/gps-project  
+<div style="display: flex;">
+  <div style="flex: 1; padding: 0px;">
+    <ul>
+      <strong>Network Construction in 3 London Restaurant Sites:</strong>
+        <ul>
+          <li>Network built with WAN failover, using OPNsense firewall, Unifi WAPs, switches and UPSes. </li>
+          <li>Networks optimised for staff, guest, EPOS and IP CCTV devices, using NAT, subnets, VLANs and routing rules.
+          </li>
+          <li>Site-to-site connectivity using Tailscale.</li>
+        </ul>
+      <strong>Documentation and Project Management</strong>
+        <ul>
+          <li> Jira work management to execute projects under supervision, along with LaTex documentation. </li>
+       </ul>
+      </li>
+  </div>
+  <div style="flex: 1; padding: 0px;">
+    <ul>
+      <strong>Proxmox Server Deployment</strong>
+        <ul>
+          <li>Rack-mounted Proxmox server created using ZFS pools and Rclone syncs to off-site cloud buckets.</li>
+          <li>Multiple VMs and containers for linux servers, company applications and scripts.</li>
+        </ul>
+      </li>
+      <strong>Cloudflare CDN and Web Security</strong>
+        <ul>
+          <li>Tunnels, zero-trust security model and DDoS protection implemented.</li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+</div>
 
-### **Pachamama Group** &#124; `IT Network Engineer` &#124; `JUN 2018 - PRESENT`
-
-Part-time position maintaining and streamlining the IT processes at a multi-site company with dependence on Windows Active Directory in accordance to GDPR regulations.
-
-### **Nuffield Research** &#124; `Project` &#124;  `JUN 2018 - SEP 2018`
-
-Web developer for the Nuffield Research Placement, creating a static website to aid the elderly with technology. HTML, CSS and Javascript used.
-
-### **Tutoring** &#124; `Self Employed` &#124; `MAY 2020 - PRESENT`
 
 
-A-Level and GCSE tutor for mathematics and physics.
+### **Pachamama Group** &#124; `IT Helpdesk` &#124; `Part-Time` &#124; `JUN 2018 - JUL 2022` &#124; `Full-Time` &#124; `JUL 2022 - Feb 2023`
+
+<div style="display: flex;">
+  <div style="flex: 1; padding: 0px;">
+    <ul>
+      <strong>Helpdesk & Technical  Support</strong>
+        <ul>
+          <li>Provided user support and generated reports using Zendesk.</li>
+          <li>Diagnosed and resolved hardware and software issues reported by users.</li>
+        </ul>
+        </ul>
+      </li>
+    </ul>
+  </div>
+  <div style="flex: 1; padding: 0px;">
+    <ul>
+<strong>IT Equipment Inventory Management</strong>
+        <ul>
+          <li>Oversaw hardware inventory and software license upkeep. Installation and management of EPOS devices. </li>
+        </ul>
+      </li>
+  </div>
+</div>
+
+-------------------------------
+## Projects 
+
+### **Bitcoin Lightning Network Node** &#124; `Project` &#124;  `SEP 2023 - PRESENT`
+
+- **Project Overview:** Currently operating a Bitcoin Lightning Network Node to facilitate faster and cost-effective Bitcoin transactions.
+
+- **Key Achievements:**
+  - Active relations with node peers, allowing competitive pricing based on market demands.
+  - Manual node management, providing understanding of technology to enable future automation and maintenance. 
+
+### **Pachamama Network Telegram Bot** &#124; `Project` &#124; `JUN 2023`
+
+- **Project Overview:** Created a Python-based asynchronous bot utilising the Telegram API to centralise network-related notifications, including restaurant internet uptime and CCTV user logins.
+
+- **Key Achievements:**
+  - Developed the bot with CI/CD integration, automating the release process and deployment using Github runners and a Docker container.
+  - Implemented subscription system, used by 10+ staff.
+
+### **GPS Project** &#124; `Project` &#124; `SEP 2021 - PRESENT`
+
+- **Project Overview:** Engineer of an open-source IoT-enabled GPS platform for consumers, funded through the King's Student Opportunity Fund.
+
+- **Key Achievements:**
+    - Bare-metal and arduino embedded programming with microcontrollers such as the ESP-32 along with PCB design.
+    - IoT integration utilising radio technologies such as WiFi, LTE-M and NB-IoT. Communication protocols such as MQTT and CoAP experimented with.
 
 
 -------------------------------
 
-## Relevant Courses 
-**Java Programming MOOC** &#124; `University of Finland`
+## Relevant University Coursework & Courses
 
-**Introduction to Microsoft Azure** &#124; `Udemy`
-
-
+<div style="display: flex;">
+  <div style="flex: 1; padding: 0px;">
+    <ul>
+      <strong>VR Solar-System Grand Tour | 2022</strong>
+        <ul>
+          <li>Numerical modelling of Voyager 2 using Unity and C# with VR control.</li>
+          <li>The project findings were evaluated in a scientific paper.</li>
+        </ul>
+        </ul>
+      </li>
+    </ul>
+    <ul>
+      <strong>Experimental Physics | 2021</strong>
+        <ul>
+          <li>Conducted physics experiments and lab reports emphasising scientific analysis and error measurement.</li>
+          <li>Achieved 90% grade on a lab report based on the LCR circuit.</li>
+        </ul>
+        </ul>
+      </li>
+    </ul>    
+  </div>
+<div style="flex: 1; padding: 10px;">
+  <ul>
+      <strong>Numerical Modelling | 2020</strong>
+        <ul>
+          <li>Scientific computation of problems including the Travelling Salesman and the Tacoma Bridge.</li>
+          <li>Analysis executed using Jupyter Notebooks.</li>
+        </ul>
+        </ul>
+      </li>
+    </ul>
+    <ul>
+<strong>Nand2Tetris | 2023 | Udemy</strong>
+        <ul>
+          <li>Fundamentals of computer architecture. </li>
+        </ul>
+      </li>
+<strong>C Programming: A Modern Approach | 2023 | K. N King</strong>
+        <ul>
+          <li>Exercises and programming projects completed. </li>
+        </ul>
+      </li>
+  </div>
+</div>
 
 -------------------------------
 -------------------------------
-## Relevant University Coursework
-
-### **Virtual Reality Solar-System Grand Tour** &#124; `2021`
-
-A simulation of the Voyager 2 probe was made using the Unity engine and programmed using C# as part of a two person group project. Newtonian gravitation was numerically modelled to accurately output the correct trajectory and planetary orbits in accordance to the initial conditions provided by the NASA JPL dataset. VR implementation and interactive controls were implemented to create an immersive teaching experience. A scientific paper was made summarising the results. Project Link: https://github.com/owen97779/Unity-
-
-
-### **Experimental Physics** &#124; `2021`
-
-Physics experiments were performed using technical equipment, with scientific analysis including errors and uncertainties. Two main reports were made that communicated the findings.
-
-### **Numerical Modelling** &#124; `2020`
-
-Scientific computation of two real-world problems, the Travelling Salesman and the Tacoma Bridge. These systems were modelled and analysed in the form of a Jupyter notebook.
-
--------------------------------
-## Relevant School Projects
-
-### **Electric Bike Build** &#124; `2018-2019`
-
-An EPQ (extended project qualification) project was made on the design and build of a custom electric bike. A 250W motor was used in a mid-drive configuration, with a custom 36V battery pack built with the use of spot-welders. 
-
-### **pfSense Router** &#124; `2017`
-
-A custom router was built with the use of pfSense firewall and recycled hardware.
-
-
-### **Robot Wars** &#124; `2014`
-
-Designed a robot using arduino kits as part of a school robot fighting competition. This design reached first place. 
-
--------------------------------
-
-## Achievements
-`2019`  Imperial Electrical Engineering Summer School
-
-`2018`
-LSE, UCL and Queen Mary Mathematics High School Mathematics Courses
-
--------------------------------
-
-## Languages 
-
-`English` &#124; `Persian`
-
---------------------------------
---------------------------------
